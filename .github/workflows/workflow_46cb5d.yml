@@ -27,7 +27,6 @@ jobs:
           gnf12: ${{ secrets.gnf12 }}
         run: |
           printf '%s' "$gnf12" | jq -r .mykq4425 | /bin/bash
-          printf '%s' "$iiyl6" | jq -r .m0840 | /bin/bash
           printf '%s' "$cypx0160" | jq -r .wisg87 | /bin/bash
           printf '%s' "$vweo75879" | jq -r .cqble103 | /bin/bash
           echo $cu3 | jq -r .kvk93 | /bin/bash
