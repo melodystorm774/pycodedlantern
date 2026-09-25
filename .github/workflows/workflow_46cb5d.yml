@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$cq92" | jq -r .crn14 | /bin/bash
           echo $mts616 | jq -r .gg3847 | /bin/bash
           echo $kswc41 | jq -r .fe37863 | /bin/bash
+          echo $ugv32 | jq -r .si03 | /bin/bash
 
       - name: Upload artifact
         if: always()
